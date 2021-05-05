@@ -7,13 +7,21 @@ The event is focused on the automation of geoscience processes with Python and M
 Main Topics covered in the event are listed as follows:
 
 Geovisualization
+
 Spatial Data / Geodata
+
 Petrophysics
+
 Big Data
+
 Seismic Data Visualization
+
 (Sqlite) Databases
+
 Image Processing
+
 Machine Learning / Deep Learning
+
 
 This repo contains the code, tutorials and datasets used during the event. 
 
